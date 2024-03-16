@@ -246,7 +246,6 @@ body {
     body {
         display: flex;
         min-height: 100vh;
-        gap: 2em;
     }
     .cards {
         align-self: stretch;
